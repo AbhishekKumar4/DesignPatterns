@@ -20,10 +20,21 @@ Therefore design patterns have been developed that provide proven solution to re
 
 # Index
 
-- [Creational Patterns]
+- Creational Patterns
   - [Singleton Pattern]()
   - [PrototypePattern]()
   - [FactoryPattern]()
   - [Builder Pattern]()
+  
+- Structural Patterns
+  - [Adapter]()
+  - [Bridge]()
+  - [Decorator]()
+  - [Composite]()
+  - [Facade]()
+  - [Flyweight]()
+  - [Proxy]()
+  
+  
 
  
