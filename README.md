@@ -25,6 +25,7 @@ Therefore design patterns have been developed that provide proven solution to re
   - [PrototypePattern](https://github.com/AbhishekKumar4/DesignPatterns/tree/master/Creational/PrototypePattern)
   - [FactoryPattern](https://github.com/AbhishekKumar4/DesignPatterns/tree/master/Creational/FactoryPattern)
   - [Builder Pattern](https://github.com/AbhishekKumar4/DesignPatterns/tree/master/Creational/Builder%20Pattern)
+  - [Abstract Factory Pattern](https://github.com/AbhishekKumar4/DesignPatterns/tree/master/Creational/AbstractFactory)
   
 - Structural Patterns
   - [Adapter]()
